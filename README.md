@@ -1,1 +1,1 @@
-# deep-neural-network
+# Deep neural network in python from scratch
